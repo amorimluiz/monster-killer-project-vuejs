@@ -1,2 +1,2 @@
 # monster-killer-project-vuejs
-A project develop in vuejs for learning purposes.
+A project developed in vuejs for learning purposes.
